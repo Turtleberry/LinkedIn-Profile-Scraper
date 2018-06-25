@@ -86,20 +86,20 @@ Now that you're connected to Phantombuster, Click on the following button (it wi
 ## 3. Click on Configure me!
 You'll now see the 3 configuration dots blinking. Click on them.
 
-<center>![](https://phantombuster.imgix.net/api-store/configure_me.JPG)</center>
+<center><img src="https://phantombuster.imgix.net/api-store/configure_me.JPG" style="float:right; border:none;box-shadow:none;"></center>
 
 
 ## 4. Linkedin authentication 🔑 { argument }
 Because the script will manipulate LinkedIn for you, it needs to be logged on your LinkedIn account. For that you just need to copy paste your session cookie in the script argument:
 * Using Chrome, go to your LinkedIn homepage and open the inspector
-→ Right click anywhere on the page and select “Inspect” ![](https://phantombuster.imgix.net/api-store/Inspect+browser.png)
+→ Right click anywhere on the page and select “Inspect” <img src="https://phantombuster.imgix.net/api-store/Inspect+browser.png" style="float:right; border:none;box-shadow:none;">
 → <kbd>CMD</kbd>+<kbd>OPT</kbd>+<kbd>i</kbd> on macOS
 or
 → <kbd>F12</kbd> or <kbd>CTRL</kbd>+<kbd>MAJ</kbd>+<kbd>i</kbd> on Windows
 
 * Locate the “Application” tab
 
-<center>![](https://phantombuster.imgix.net/api-store/li_at+1.png)</center>
+<center><img src="https://phantombuster.imgix.net/api-store/li_at+1.png" style="float:right; border:none;box-shadow:none;"></center>
 
 * Select “Cookies” > “http://www.linkedin.com” on the left menu.
 
@@ -107,7 +107,7 @@ or
 
 * Locate the “li_at” cookie.
 
-<center>![](https://phantombuster.imgix.net/api-store/li_at+3.png)</center/>
+<center><img src="https://phantombuster.imgix.net/api-store/li_at+3.png" style="float:right; border:none;box-shadow:none;"></center/>
 
 * Copy what’s under “Value” (**Double click** on it then <kbd>Ctrl</kbd>+<kbd>C</kbd>) and paste it into your API _Configuration_
 
@@ -117,7 +117,7 @@ _// How to access your cookies with <a href="https://developer.mozilla.org/en-US
 Below your session cookie you’ll find _Spreadsheet URL_
 
 Enter in the text field a link of a Google Spreadsheet with this same format _(only column A is mandatory)_:
-<center>![](https://phantombuster.imgix.net/api-store/1-Spreadsheet.png)</center>
+<center><img src="https://phantombuster.imgix.net/api-store/1-Spreadsheet.png" style="float:right; border:none;box-shadow:none;"></center>
 
 Add every linkedIn profiles link in column A (**one link per row**)
 
@@ -131,7 +131,7 @@ You can also enter a CSV file URL, it will work the same :)
 
 To use this feature, first create an account at Hunter [here](https://hunter.io/users/sign_up). Once done, **get your Hunter API key** by going to "Dashboard" > "API" > "Copy API key".
 
-<center>![](https://phantombuster.imgix.net/api-store/hunter-screenshot.png)</center>
+<center><img src="https://phantombuster.imgix.net/api-store/hunter-screenshot.png" style="float:right; border:none;box-shadow:none;"></center>
 
 Paste your API key in the "Hunter.io API key" field in your API configuration. It will now guess the email of every visited profile! Expect a success rate between 20% and 50%.
 
@@ -143,7 +143,7 @@ Hunter gives you 100 free email guesses per month. After that, you'll have to bu
 # Click on Launch & Enjoy!
 It’s done! All that is left to do is to click on "launch" to try your script!
 
-<center>![](https://phantombuster.imgix.net/api-store/launch.JPG)</center>
+<center><img src="https://phantombuster.imgix.net/api-store/launch.JPG" style="float:right; border:none;box-shadow:none;"></center>
 
 This will launch the bot and, if you didn't already change the spreadsheet URL, will collect the information of the Phantombuster team.
 
@@ -155,11 +155,11 @@ Every time the API is launched, it will scrape 10 profiles and then stop. (This 
 
 To do so, simply hit the “Settings” button to define when your API is launched:
 
-<center>![](https://phantombuster.imgix.net/api-store/settings-button.png)</center>
+<center><img src="https://phantombuster.imgix.net/api-store/settings-button.png" style="float:right; border:none;box-shadow:none;"></center>
 
 Then, select a frequency:
 
-<center>![](https://phantombuster.imgix.net/api-store/repetition-setup.png)</center>
+<center><img src="https://phantombuster.imgix.net/api-store/repetition-setup.png)</center>
 
 Don't forget to click 💾 <span style="color:blue">Save</span> at the bottom of the page!
 
