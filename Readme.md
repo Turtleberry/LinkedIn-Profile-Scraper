@@ -1,5 +1,6 @@
 <center>**New! This API now supports [email discovery](#section_email_discovery).**</center>
 
+<center><a href="https://phantombuster.com/register"><img src="http://lkpg.fr/tryme.png" style="float:right; border:none;box-shadow:none;"></a></center>
 
 <hr />
 
@@ -82,12 +83,12 @@ If you haven't already, create a **FREE** account on [Phantombuster](https://pha
 Now that you're connected to Phantombuster, Click on the following button (it will open a new tab).
 
 <center><button type="button" class="btn btn-warning callToAction" onclick="useThisApi()">USE THIS API!</button></center>
-<center><a href="https://phantombuster.com/api-store/3112/linkedin-profile-scraper"><img src="https://phantombuster.imgix.net/api-store/configure_me.JPG" style="float:right; border:none;box-shadow:none;"></a></center>
+<center><img src="https://phantombuster.imgix.net/api-store/configure_me.JPG" style="float:right; border:none;box-shadow:none;"></a></center>
 
 ## 3. Click on Configure me!
 You'll now see the 3 configuration dots blinking. Click on them.
 
-<center><img src="http://lkpg.fr/tryme.png" style="float:right; border:none;box-shadow:none;"></center>
+<center><a href="https://phantombuster.com/register"><img src="http://lkpg.fr/tryme.png" style="float:right; border:none;box-shadow:none;"></a></center>
 
 
 ## 4. Linkedin authentication 🔑 { argument }
