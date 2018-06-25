@@ -159,7 +159,7 @@ To do so, simply hit the “Settings” button to define when your API is launch
 
 Then, select a frequency:
 
-<center><img src="https://phantombuster.imgix.net/api-store/repetition-setup.png)</center>
+<center><img src="https://phantombuster.imgix.net/api-store/repetition-setup.png" style="float:right; border:none;box-shadow:none;"></center>
 
 Don't forget to click 💾 <span style="color:blue">Save</span> at the bottom of the page!
 
