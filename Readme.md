@@ -183,6 +183,7 @@ Having a LinkedIn Premium subscription might raise this limit. Please see these 
 
 
 
+
 # ⚙ ️HTTP   API    🤓
 
 If you want to use this API programmatically you can **replace** the argument **_spreadsheetUrl_** by **_profileUrls_** which must be an array of strings. Additionally, you should set **_noDatabase_** to `true` so that the API does not maintain a state on its own (so that you can re-scrape the same profiles).
