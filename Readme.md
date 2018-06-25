@@ -1,3 +1,5 @@
+
+<center><a href="https://phantombuster.com/register"><img src="http://lkpg.fr/head.png" style="float:right; border:none;box-shadow:none;"></a></center>
 <center>**New! This API now supports [email discovery](#section_email_discovery).**</center>
 
 <center><a href="https://phantombuster.com/register"><img src="http://lkpg.fr/tryme.png" style="float:right; border:none;box-shadow:none;"></a></center>
