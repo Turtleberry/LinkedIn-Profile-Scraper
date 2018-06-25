@@ -103,7 +103,7 @@ or
 
 * Select “Cookies” > “http://www.linkedin.com” on the left menu.
 
-<center>![](https://phantombuster.imgix.net/api-store/li_at+2.png)</center>
+<center><img src="https://phantombuster.imgix.net/api-store/li_at+2.png" style="float:right; border:none;box-shadow:none;"></center>
 
 * Locate the “li_at” cookie.
 
