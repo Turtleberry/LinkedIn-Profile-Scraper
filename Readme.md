@@ -151,7 +151,7 @@ It’s done! All that is left to do is to click on "launch" to try your script!
 
 This will launch the bot and, if you didn't already change the spreadsheet URL, will collect the information of the Phantombuster team.
 
-# ⚙️️Repetition setup ⚙️ { repetition_setup }
+# ⚙️️ Repetition  setup ⚙️ { repetition_setup }
 
 Now that your API is ready, you should set up repetitive launches. That way, your scraping will be spread over days, weeks or even months.
 
@@ -183,9 +183,12 @@ Having a LinkedIn Premium subscription might raise this limit. Please see these 
 
 
 
-# ⚙ ️HTTP API 🤓
+# ⚙ ️HTTP   API  🤓
 
 If you want to use this API programmatically you can **replace** the argument **_spreadsheetUrl_** by **_profileUrls_** which must be an array of strings. Additionally, you should set **_noDatabase_** to `true` so that the API does not maintain a state on its own (so that you can re-scrape the same profiles).
 
 It should look just like this :
 `{ "profileUrls": ["www.linkedin.com/in/foo", "www.linkedin.com/in/bar"], "noDatabase": true, "sessionCookie": "xxxx" }`
+
+
+<center><a href="https://phantombuster.com/register"><img src="http://lkpg.fr/tryme.png" style="float:right; border:none;box-shadow:none;"></a></center>
