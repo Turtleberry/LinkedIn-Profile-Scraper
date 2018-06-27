@@ -1,8 +1,8 @@
 
-<center><a href="https://phantombuster.com/register"><img src="http://lkpg.fr/head.png" style="float:right; border:none;box-shadow:none;"></a></center>
+<center><a href="https://phantombuster.com/register?fp_ref=thomas75"><img src="http://lkpg.fr/head.png" style="float:right; border:none;box-shadow:none;"></a></center>
 <center>**New! This API now supports [email discovery](#section_email_discovery).**</center>
 
-<center><a href="https://phantombuster.com/register"><img src="http://lkpg.fr/tryme.png" style="float:right; border:none;box-shadow:none;"></a></center>
+<center><a href="https://phantombuster.com/register?fp_ref=thomas75"><img src="http://lkpg.fr/tryme.png" style="float:right; border:none;box-shadow:none;"></a></center>
 
 <hr />
 
@@ -78,7 +78,7 @@ _(**You already have all that?**  Click straight away on **"Use this API"**)_
 
 # Which steps to follow?
 ## 1. Create an account on Phantombuster.com 💻
-If you haven't already, create a **FREE** account on [Phantombuster](https://phantombuster.com/register). Our service will browse the web for you. It’s a website automator which runs in the cloud. Once done we'll follow up.
+If you haven't already, create a **FREE** account on [Phantombuster](https://phantombuster.com/register?fp_ref=thomas75). Our service will browse the web for you. It’s a website automator which runs in the cloud. Once done we'll follow up.
 
 
 ## 2. Use this API on your account.👌
@@ -90,7 +90,7 @@ Now that you're connected to Phantombuster, Click on the following button (it wi
 ## 3. Click on Configure me!
 You'll now see the 3 configuration dots blinking. Click on them.
 
-<center><a href="https://phantombuster.com/register"><img src="http://lkpg.fr/tryme.png" style="float:right; border:none;box-shadow:none;"></a></center>
+<center><a href="https://phantombuster.com/register?fp_ref=thomas75"><img src="http://lkpg.fr/tryme.png" style="float:right; border:none;box-shadow:none;"></a></center>
 
 
 ## 4. Linkedin authentication 🔑 { argument }
@@ -133,7 +133,7 @@ You can also enter a CSV file URL, it will work the same :)
 
 **Thanks to our friends at [Hunter](https://hunter.io) (an email discovery service), this API can guess the email of each profile it visits.**
 
-To use this feature, first create an account at Hunter [here](https://hunter.io/users/sign_up). Once done, **get your Hunter API key** by going to "Dashboard" > "API" > "Copy API key".
+To use this feature, first create an account at Hunter [here](https://hunter.io/users/sign_up?fp_ref=thomas75). Once done, **get your Hunter API key** by going to "Dashboard" > "API" > "Copy API key".
 
 <center><img src="https://phantombuster.imgix.net/api-store/hunter-screenshot.png" style="float:right; border:none;box-shadow:none;"></center>
 
@@ -192,4 +192,4 @@ It should look just like this :
 `{ "profileUrls": ["www.linkedin.com/in/foo", "www.linkedin.com/in/bar"], "noDatabase": true, "sessionCookie": "xxxx" }`
 
 
-<center><a href="https://phantombuster.com/register"><img src="http://lkpg.fr/tryme.png" style="float:right; border:none;box-shadow:none;"></a></center>
+<center><a href="https://phantombuster.com/register?fp_ref=thomas75"><img src="http://lkpg.fr/tryme.png" style="float:right; border:none;box-shadow:none;"></a></center>
